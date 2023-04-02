@@ -1,8 +1,9 @@
 title: Angela Kurczewski # your name (or website title) here
 logo: "/images/IMG_2141.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  Data-Driven Analyst
+  Skills: SQL, Tableau, Excel
+  Marketing, Revenue Management, Sales  <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/merlot@v0.2.0
