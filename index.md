@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
+[<img src="A DoorDash Analysis by Angela Kurczewski-2.png"/>](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
 My Excel project using data analysis to exlore the Data Behind Food Delivery. 
 
 
