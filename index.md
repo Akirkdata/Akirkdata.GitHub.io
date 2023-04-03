@@ -14,7 +14,7 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
+#### [DoorDash Analysis using Excel](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
 [<img src="images/A DoorDash Analysis by Angela Kurczewski-2.png"/>](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
 My Excel project using data analysis to explore the **Data Behind Food Delivery**. 
 
