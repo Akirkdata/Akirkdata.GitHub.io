@@ -8,9 +8,6 @@
 [<img src="images/A DoorDash Analysis by Angela Kurczewski-2.png"/>](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
 My Excel project using data analysis to explore the **Data Behind Food Delivery**. 
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
 
 ---
 #### [Tableau Project - Education](/files/Massachusetts Education Project.pdf)
@@ -18,6 +15,9 @@ Tolulope is the best
 For this project, I explored the Massachusetts Education System and provided insights regarding factors influencing graduation rates, college attendance, and MCAS scores.
 
 ---
+#### [Internal Blog Post Project](/bank)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Tolulope is the best
 
 
 ---
