@@ -13,7 +13,7 @@ My Excel project using data analysis to explore the **Data Behind Food Delivery*
 Tolulope is the best
 
 ---
-#### [Linked File Project](/files/Massachusetts Education Project.pdf)
+#### [Tableau Project - Education](/files/Massachusetts Education Project.pdf)
 <img src="images/Mass Education System coverphoto.png"/>
 For this project, I explored the Massachusetts Education System and provided insights regarding factors influencing graduation rates, college attendance, and MCAS scores.
 
