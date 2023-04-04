@@ -14,8 +14,8 @@ Tolulope is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/Massachusetts Education Project"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/Mass Education System coverphoto.png"/>
+For this project, I explored the Massachusetts Education System and provided insights regarding factors influencing graduation rates, college attendance, and MCAS scores.
 
 ---
 
