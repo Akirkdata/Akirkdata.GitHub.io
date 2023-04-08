@@ -1,8 +1,8 @@
-# My Portfolio
+# WELCOME TO MY PORTFOLIO !
 
 ---
 
-### Learn About My Projects
+### Please enjoy my Projects!
 
 #### [DoorDash Analysis using Excel](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
 [<img src="images/A DoorDash Analysis by Angela Kurczewski-2.png"/>](https://www.linkedin.com/pulse/door-dash-analysis-angela-kurczewski/)
@@ -21,23 +21,5 @@ Using SQL, I analyzed the loan portfolio of the World Bank Group who issues cred
 For this project, I explored the Massachusetts Education System and provided insights regarding factors influencing graduation rates, college attendance, and MCAS scores.
 
 ---
-
-#### [Project 4](https://www.linkedin.com/)
-[<img src="images/name)
-In this case study from Data Analytics Accelerator, I was prompted to analyze 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
