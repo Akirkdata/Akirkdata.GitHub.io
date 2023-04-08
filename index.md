@@ -10,7 +10,7 @@ My Excel project using data analysis to explore the **Data Behind Food Delivery*
 
 
 ---
-#### [Finance Project](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
+#### [Finance Project using SQL](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
 <img src="images/World Map3-3.png"/>
 Using SQL, I analyzed the loan portfolio of the World Bank Group who issues credits to countries all over the world for development in infrastructure, education and agriculture.
 
