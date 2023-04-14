@@ -5,7 +5,7 @@
 ### Please enjoy my Projects!
 
 #### [Healthare Project using MySQL](https://www.linkedin.com/pulse/healthcare-analysis-project-angela-kurczewski/)
-<img src="images/
+<img src="images/Healthcare Analysis-3.png.pdf"/>
 Using MySQL and MySQL Workbench, I evaluated the performance of a hospital in regards to its efficiency and patient care.
 
 ---
