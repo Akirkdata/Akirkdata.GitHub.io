@@ -4,7 +4,8 @@
 
 ### Please enjoy my Projects!
 #### [NBA 2021-22 Season Analysis using Tableau](https://public.tableau.com/shared/NWC8HRK5Z?:display_count=n&:origin=viz_share_link/)
-<img src="
+<img src="2021-22 NBA seaon analysis.png"/>
+For this project in Tableau, I provided a visual analysis of team and player performance for the 2021-22 season.
 
 #### [Healthare Project using MySQL](https://www.linkedin.com/pulse/healthcare-analysis-project-angela-kurczewski/)
 <img src="images/Healthcare Analysis-3.png"/>
