@@ -14,13 +14,13 @@ Using MySQL and MySQL Workbench, I evaluated the performance of a hospital in re
 ---
 
 #### [Finance Project using SQL](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
-<img src="images/World Map3-3.png"/>(https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
+[<img src="images/World Map3-3.png"/>](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
 Using SQL, I analyzed the loan portfolio of the World Bank Group who issues credits to countries all over the world for development in infrastructure, education and agriculture.
 
 
 ---
 #### [Tableau Project Summary - Education](/files/Massachusetts Education Project.pdf)
-[<img src="images/Mass Education System coverphoto.png"/>](https://public.tableau.com/views/MassachusettsEducationOverview_16800539217870/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+[<img src="images/Mass Education System coverphoto.png"/>](https://public.tableau.com/views/MassachusettsEducationOverview_16800539217870/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 For this project, I explored the Massachusetts Education System and provided insights regarding factors influencing graduation rates, college attendance, and MCAS scores.
 
 ---
