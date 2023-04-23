@@ -4,22 +4,22 @@
 
 ### Please enjoy my Projects!
 #### [NBA 2021-22 Season Analysis using Tableau](https://public.tableau.com/shared/NWC8HRK5Z?:display_count=n&:origin=viz_share_link/)
-<img src="images/2021-22 NBA seaon analysis.png"/>
+<img src="images/2021-22 NBA seaon analysis.png"/>(https://public.tableau.com/shared/NWC8HRK5Z?:display_count=n&:origin=viz_share_link/)
 For this project in Tableau, I provided a visual analysis of team and player performance for the 2021-22 season.
 
 #### [Healthare Project using MySQL](https://www.linkedin.com/pulse/healthcare-analysis-project-angela-kurczewski/)
-<img src="images/Healthcare Analysis-3.png"/>
+<img src="images/Healthcare Analysis-3.png"/>(https://www.linkedin.com/pulse/healthcare-analysis-project-angela-kurczewski/)
 Using MySQL and MySQL Workbench, I evaluated the performance of a hospital in regards to its efficiency and patient care.
 
 ---
 
 #### [Finance Project using SQL](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
-<img src="images/World Map3-3.png"/>
+<img src="images/World Map3-3.png"/>(https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
 Using SQL, I analyzed the loan portfolio of the World Bank Group who issues credits to countries all over the world for development in infrastructure, education and agriculture.
 
 
 ---
-#### [Tableau Project - Education](/files/Massachusetts Education Project.pdf)
+#### [Tableau Project Summary - Education](/files/Massachusetts Education Project.pdf)
 <img src="images/Mass Education System coverphoto.png"/>
 For this project, I explored the Massachusetts Education System and provided insights regarding factors influencing graduation rates, college attendance, and MCAS scores.
 
