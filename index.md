@@ -4,9 +4,10 @@
 
 ### Please enjoy my Projects!
 
-#### [HR Project using R] (https://www.linkedin.com/pulse/hr-analysis-using-r-angela-kurczewski/)
-[<img src="images/
-
+#### [HR Project using R](https://www.linkedin.com/pulse/hr-analysis-using-r-angela-kurczewski/)
+[<img src="images/investing in employees.png"/>](https://www.linkedin.com/pulse/hr-analysis-using-r-angela-kurczewski/)
+Using R, I explored the statistical side of IBM's demographics and relationships that exist that may influence hiriing and firing decisions.
+---
 
 #### [Finance Project using SQL](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
 [<img src="images/World Map3-3.png"/>](https://www.linkedin.com/pulse/analysis-world-bank-group-angela-kurczewski/)
