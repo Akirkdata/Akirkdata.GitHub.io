@@ -31,7 +31,8 @@ My Excel project using data analysis to explore the **Data Behind Food Delivery*
 ---
 #### [NBA 2021-22 Season Analysis using Tableau](https://public.tableau.com/shared/NWC8HRK5Z?:display_count=n&:origin=viz_share_link/)
 [<img src="images/2021-22 NBA seaon analysis.png"/>](https://public.tableau.com/shared/NWC8HRK5Z?:display_count=n&:origin=viz_share_link/)
-For this project in Tableau, I provided a visual analysis of team and player performance for the 2021-22 season.
+For this project in Tableau, I provided a visual analysis of team and player performance for the 2021-22 season. 
+[Full project can be found here:](https://www.linkedin.com/pulse/nba-data-analysis-tableau-angela-kurczewski)
 
 ---
 
